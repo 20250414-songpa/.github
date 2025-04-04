@@ -1,0 +1,13 @@
+# Java&Spring 백엔드개발자과정(LangChain LLM 프로젝트)
+
+```json
+
+{
+    "name" : "🐨남효정🐨",
+    "email" : "koala.ohgiraffers@gmail.com",
+    "phone" : "010-7651-4124"
+}
+```
+---
+## 📖수업내용📖
+> 수업 소스코드는 수업이 진행되면서 여기에 올려드리겠습니다.
