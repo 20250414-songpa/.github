@@ -7,6 +7,12 @@
     "email" : "koala.ohgiraffers@gmail.com",
     "phone" : "010-7651-4124"
 }
+
+{
+    "name" : "🐼권은지🐼",
+    "email" : "panda.ohgiraffers@gmail.com",
+    "phone" : "010-6543-2971"
+}
 ```
 ---
 ## 📖수업내용📖
