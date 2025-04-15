@@ -20,3 +20,6 @@
 ## Publishing
 ### [01_HTML](https://github.com/20250414-songpa/01_html)
 ### [02_CSS](https://github.com/20250414-songpa/02_css)
+
+## Language
+### [03-01 JavaScript(core)](https://github.com/20250414-songpa/03-01_javascript_core)
