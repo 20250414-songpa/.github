@@ -23,3 +23,4 @@
 
 ## Language
 ### [03-01 JavaScript(core)](https://github.com/20250414-songpa/03-01_javascript_core)
+### [03-02 JavaScript(web)](https://github.com/20250414-songpa/03-02_javascript_web)
