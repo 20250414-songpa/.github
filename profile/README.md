@@ -25,7 +25,10 @@
 ### [03-01 JavaScript(core)](https://github.com/20250414-songpa/03-01_javascript_core)
 ### [03-02 JavaScript(web)](https://github.com/20250414-songpa/03-02_javascript_web)
 ### [03-03 JavaScript(es6)](https://github.com/20250414-songpa/03-03_javascript_es6) 
-### [04_Java](https://github.com/20250414-songpa/04_java.git)
+### [04_Java](https://github.com/20250414-songpa/04_java)
 
 ## DBMS
 ### [05_MYSQL](https://github.com/20250414-songpa/05_mysql)
+
+## API
+### [06_JDBC](https://github.com/20250414-songpa/06_jdbc)
