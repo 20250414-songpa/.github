@@ -32,6 +32,7 @@
 
 ## API
 ### [06_JDBC](https://github.com/20250414-songpa/06_jdbc)
+### [08_Servlet](https://github.com/20250414-songpa/08_servlet)
 
 ## Persistence Framework
 ### [07_MyBatis](https://github.com/20250414-songpa/07_mybatis)
