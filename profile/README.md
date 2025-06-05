@@ -38,4 +38,5 @@
 ### [07_MyBatis](https://github.com/20250414-songpa/07_mybatis)
 
 ## Spring Framework
-### [09_Spring(core)](https://github.com/20250414-songpa/09_spring_core)
+### [09-01_Spring(core)](https://github.com/20250414-songpa/09-01_spring_core)
+### [09-02_Spring(WebMVC)](https://github.com/20250414-songpa/09-02_spring_webmvc)
