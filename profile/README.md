@@ -35,7 +35,7 @@
 ### [08_Servlet](https://github.com/20250414-songpa/08_servlet)
 
 ## Persistence Framework
-### [07_MyBatis](https://github.com/20250414-songpa/07_mybatis
+### [07_MyBatis](https://github.com/20250414-songpa/07_mybatis)
 ### [10_Jpa](https://github.com/20250414-songpa/10_jpa.git)
 
 ## Spring Framework
